@@ -1,0 +1,1 @@
+# gerar-de-qr-code
